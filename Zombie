@@ -6,7 +6,7 @@ task.wait(0.5)
 
 -- Criar janela
 local Window = OrionLib:MakeWindow({
-    Name = "Script Hub",
+    Name = "NovoAprendiz",
     HidePremium = false,
     SaveConfig = true,
     ConfigFolder = "ScriptHub"
